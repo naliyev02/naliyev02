@@ -5,13 +5,13 @@ Mən **.NET** ekosistemində ixtisaslaşmış bir proqram təminatı mühəndisi
 
 ## 🛠️ Bacarıqlarım və Texnologiyalarım:
 - **Backend**: ASP.NET Core, Web API, Entity Framework Core
-- **Frontend**: HTML, CSS, JavaScript (əsas biliklər)
-- **Database**: Microsoft SQL Server, PostgreSQL
+- **Frontend**: HTML, CSS, JavaScript (təməl biliklər)
+- **Database**: Microsoft SQL Server
 - **Authentication**: ASP.NET Identity, JWT
 - **Notification**: Firebase Cloud Messaging (FCM), SignalR
 - **Task Scheduling**: HangFire
 - **Design Patterns**: Repository, Factory, Dependency Injection
-- **Tools**: Visual Studio, Rider, Git, Postman
+- **Tools**: Visual Studio, Git, Postman
 
 ---
 
