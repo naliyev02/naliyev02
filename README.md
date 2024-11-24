@@ -31,8 +31,8 @@ Mən **.NET** ekosistemində ixtisaslaşmış bir proqram təminatı mühəndisi
 ---
 
 ## 📈 Statistika
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naliyev02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naliyev02&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naliyev02&count_private=true&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naliyev02&layout=compact&langs_count=10&theme=radical)
 
 ---
 
